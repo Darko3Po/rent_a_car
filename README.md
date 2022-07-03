@@ -10,7 +10,7 @@ car company.
 ## Server Requirements
 
 ```
-● PHP >= PHP >= 7.2.5
+● PHP >= 7.2.5
 ● MYSQL
 ● PDO PHP Extension
 ● JSON PHP Extension
